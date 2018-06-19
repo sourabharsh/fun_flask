@@ -1,0 +1,19 @@
+#load_button {
+    margin: auto;
+    display: block;
+    width: 200px;
+}
+.feed{
+    width: auto;
+    height: auto;
+    align-self: center;
+}       
+
+ul li{
+    width: auto;
+    height: auto;
+}
+.container{
+    margin: auto;
+    width: max-content;
+}
