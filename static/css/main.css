@@ -8,7 +8,9 @@
     height: auto;
     align-self: center;
 }       
-
+ul{
+    list-style-type: none;
+}
 ul li{
     width: auto;
     height: auto;
@@ -16,4 +18,8 @@ ul li{
 .container{
     margin: auto;
     width: max-content;
+}
+
+#container_footer{
+    height: 30px;
 }
